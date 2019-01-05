@@ -4,6 +4,7 @@
   "description": "Bootstrap 4 project",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/ArtemRyaguzov/looplab/issues"
   },
-  "homepage": "https://github.com/ArtemRyaguzov/looplab#readme"
+  "homepage": "https://ArtemRyaguzov.github.io/looplab"
 }
